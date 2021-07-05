@@ -5,9 +5,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trixi-framework/talk-2021-juliacon/HEAD?filepath=demo.ipynb)
 
 <p align="center">
- <img
-  src="https://user-images.githubusercontent.com/3637659/124484059-4ca59c00-ddab-11eb-9ebc-bcf152b095bb.png"
-  width="500px" />
+  <a href="talk.pdf"><img
+    src="https://user-images.githubusercontent.com/3637659/124484059-4ca59c00-ddab-11eb-9ebc-bcf152b095bb.png"
+    width="500px" /></a>
 </p>
 
 This is the companion repository for the talk
