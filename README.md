@@ -11,7 +11,7 @@ This is the companion repository for the talk
 [JuliaCon 2021](https://juliacon.org/2021)
 
 (see abstract [below](#abstract)). Here you can find the presentation slides
-[talk.pdf](talk.pdf) as well as the the [Jupyter](https://jupyter.org) notebook
+[talk.pdf](talk.pdf) as well as the [Jupyter](https://jupyter.org) notebook
 [demo.ipynb](demo.ipynb), which was used during the talk for a live
 demonstration of [Trixi.jl](https://github.com/trixi-framework/Trixi.jl).
 Note that to play the video linked in the presentation, you also need to
