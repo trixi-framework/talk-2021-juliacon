@@ -3,18 +3,19 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/trixi-framework/talk-2021-juliacon/blob/main/demo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trixi-framework/talk-2021-juliacon/HEAD?filepath=demo.ipynb)
+[![YouTube](https://img.shields.io/youtube/views/hoViWRAhCBE?style=social)](https://www.youtube.com/watch?v=hoViWRAhCBE)
 
 <p align="center">
-  <a href="talk.pdf"><img
+  <a href="https://www.youtube.com/watch?v=hoViWRAhCBE" target="_blank" rel="noopener noreferrer"><img
     src="https://user-images.githubusercontent.com/3637659/124484059-4ca59c00-ddab-11eb-9ebc-bcf152b095bb.png"
     width="500px" /></a>
 </p>
 
-This is the companion repository for the talk
+This is the companion repository for the [JuliaCon 2021](https://juliacon.org/2021) talk
 
-**Adaptive and extendable numerical simulations with Trixi.jl**</br>
-*Michael Schlottke-Lakemper and Hendrik Ranocha*</br>
-[JuliaCon 2021](https://juliacon.org/2021)
+**Adaptive and extendable numerical simulations with Trixi.jl**<br>
+*Michael Schlottke-Lakemper and Hendrik Ranocha*<br>
+[Recorded talk on YouTube](https://www.youtube.com/watch?v=hoViWRAhCBE)
 
 (see abstract [below](#abstract)). Here you can find the presentation slides
 [talk.pdf](talk.pdf) as well as the [Jupyter](https://jupyter.org) notebook
