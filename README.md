@@ -10,11 +10,11 @@
     width="500px" /></a>
 </p>
 
-This is the companion repository for the talk
+This is the companion repository for the [JuliaCon 2021](https://juliacon.org/2021) talk
 
-**Adaptive and extendable numerical simulations with Trixi.jl**</br>
-*Michael Schlottke-Lakemper and Hendrik Ranocha*</br>
-[JuliaCon 2021](https://juliacon.org/2021)
+**Adaptive and extendable numerical simulations with Trixi.jl**<br>
+*Michael Schlottke-Lakemper and Hendrik Ranocha*<br>
+[Recorded talk on YouTube](https://www.youtube.com/watch?v=hoViWRAhCBE)
 
 (see abstract [below](#abstract)). Here you can find the presentation slides
 [talk.pdf](talk.pdf) as well as the [Jupyter](https://jupyter.org) notebook
