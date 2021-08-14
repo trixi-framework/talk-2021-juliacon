@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://opensource.org/licenses/MIT)
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/trixi-framework/talk-2021-juliacon/blob/main/demo.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/trixi-framework/talk-2021-juliacon/HEAD?filepath=demo.ipynb)
+[![YouTube](https://img.shields.io/youtube/likes/hoViWRAhCBE?style=social)](https://www.youtube.com/watch?v=hoViWRAhCBE)
 
 <p align="center">
   <a href="talk.pdf"><img
