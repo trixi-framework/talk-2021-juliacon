@@ -6,7 +6,7 @@
 [![YouTube](https://img.shields.io/youtube/likes/hoViWRAhCBE?style=social)](https://www.youtube.com/watch?v=hoViWRAhCBE)
 
 <p align="center">
-  <a href="talk.pdf"><img
+  <a href="https://www.youtube.com/watch?v=hoViWRAhCBE" target="_blank" rel="noopener noreferrer"><img
     src="https://user-images.githubusercontent.com/3637659/124484059-4ca59c00-ddab-11eb-9ebc-bcf152b095bb.png"
     width="500px" /></a>
 </p>
